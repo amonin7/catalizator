@@ -9,5 +9,4 @@ class CatalizatorApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
